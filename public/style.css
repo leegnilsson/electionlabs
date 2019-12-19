@@ -1,0 +1,15 @@
+.active-state-details {
+  padding: 1rem;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+  background: AliceBlue;
+  border-radius: 10px;
+  opacity: 0.8;
+}
+
+.material-select {
+  position: absolute;
+  z-index: 1000;
+}

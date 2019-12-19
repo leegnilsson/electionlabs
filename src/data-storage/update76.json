@@ -1,0 +1,920 @@
+[
+  {
+    "year": 1976,
+    "state": "Alabama",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 659170,
+    "totalvotes": 1182850
+  },
+  {
+    "year": 1976,
+    "state": "Alabama",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 504070,
+    "totalvotes": 1182850
+  },
+  {
+    "year": 1976,
+    "state": "Alaska",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 71555,
+    "totalvotes": 123574
+  },
+  {
+    "year": 1976,
+    "state": "Alaska",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 44058,
+    "totalvotes": 123574
+  },
+  {
+    "year": 1976,
+    "state": "Arizona",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 418642,
+    "totalvotes": 742719
+  },
+  {
+    "year": 1976,
+    "state": "Arizona",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 295602,
+    "totalvotes": 742719
+  },
+  {
+    "year": 1976,
+    "state": "Arkansas",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 498604,
+    "totalvotes": 767535
+  },
+  {
+    "year": 1976,
+    "state": "Arkansas",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 267903,
+    "totalvotes": 767535
+  },
+  {
+    "year": 1976,
+    "state": "California",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 3882244,
+    "totalvotes": 7803770
+  },
+  {
+    "year": 1976,
+    "state": "California",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 3742284,
+    "totalvotes": 7803770
+  },
+  {
+    "year": 1976,
+    "state": "Colorado",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 584278,
+    "totalvotes": 1081440
+  },
+  {
+    "year": 1976,
+    "state": "Colorado",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 460801,
+    "totalvotes": 1081440
+  },
+  {
+    "year": 1976,
+    "state": "Connecticut",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 719261,
+    "totalvotes": 1386355
+  },
+  {
+    "year": 1976,
+    "state": "Connecticut",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 647895,
+    "totalvotes": 1386355
+  },
+  {
+    "year": 1976,
+    "state": "Delaware",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 122461,
+    "totalvotes": 235642
+  },
+  {
+    "year": 1976,
+    "state": "Delaware",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 109780,
+    "totalvotes": 235642
+  },
+  {
+    "year": 1976,
+    "state": "District of Columbia",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 137818,
+    "totalvotes": 168830
+  },
+  {
+    "year": 1976,
+    "state": "District of Columbia",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 27873,
+    "totalvotes": 168830
+  },
+  {
+    "year": 1976,
+    "state": "Florida",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 1636000,
+    "totalvotes": 3150631
+  },
+  {
+    "year": 1976,
+    "state": "Florida",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 1469531,
+    "totalvotes": 3150631
+  },
+  {
+    "year": 1976,
+    "state": "Georgia",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 979409,
+    "totalvotes": 1463152
+  },
+  {
+    "year": 1976,
+    "state": "Georgia",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 483743,
+    "totalvotes": 1463152
+  },
+  {
+    "year": 1976,
+    "state": "Hawaii",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 147375,
+    "totalvotes": 291301
+  },
+  {
+    "year": 1976,
+    "state": "Hawaii",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 140003,
+    "totalvotes": 291301
+  },
+  {
+    "year": 1976,
+    "state": "Idaho",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 204151,
+    "totalvotes": 340932
+  },
+  {
+    "year": 1976,
+    "state": "Idaho",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 126549,
+    "totalvotes": 340932
+  },
+  {
+    "year": 1976,
+    "state": "Illinois",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 2364269,
+    "totalvotes": 4721282
+  },
+  {
+    "year": 1976,
+    "state": "Illinois",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 2271295,
+    "totalvotes": 4721282
+  },
+  {
+    "year": 1976,
+    "state": "Indiana",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 1183958,
+    "totalvotes": 2220362
+  },
+  {
+    "year": 1976,
+    "state": "Indiana",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 1014714,
+    "totalvotes": 2220362
+  },
+  {
+    "year": 1976,
+    "state": "Iowa",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 632864,
+    "totalvotes": 1279303
+  },
+  {
+    "year": 1976,
+    "state": "Iowa",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 619931,
+    "totalvotes": 1279303
+  },
+  {
+    "year": 1976,
+    "state": "Kansas",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 502752,
+    "totalvotes": 957845
+  },
+  {
+    "year": 1976,
+    "state": "Kansas",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 430421,
+    "totalvotes": 957845
+  },
+  {
+    "year": 1976,
+    "state": "Kentucky",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 615717,
+    "totalvotes": 1167142
+  },
+  {
+    "year": 1976,
+    "state": "Kentucky",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 531852,
+    "totalvotes": 1167142
+  },
+  {
+    "year": 1976,
+    "state": "Louisiana",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 661365,
+    "totalvotes": 1277383
+  },
+  {
+    "year": 1976,
+    "state": "Louisiana",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 587446,
+    "totalvotes": 1277383
+  },
+  {
+    "year": 1976,
+    "state": "Maine",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 236320,
+    "totalvotes": 482968
+  },
+  {
+    "year": 1976,
+    "state": "Maine",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 232279,
+    "totalvotes": 482968
+  },
+  {
+    "year": 1976,
+    "state": "Maryland",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 759612,
+    "totalvotes": 1432273
+  },
+  {
+    "year": 1976,
+    "state": "Maryland",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 672661,
+    "totalvotes": 1432273
+  },
+  {
+    "year": 1976,
+    "state": "Massachusetts",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 1429475,
+    "totalvotes": 2547558
+  },
+  {
+    "year": 1976,
+    "state": "Massachusetts",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 1030276,
+    "totalvotes": 2547558
+  },
+  {
+    "year": 1976,
+    "state": "Michigan",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 1893742,
+    "totalvotes": 3651590
+  },
+  {
+    "year": 1976,
+    "state": "Michigan",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 1696714,
+    "totalvotes": 3651590
+  },
+  {
+    "year": 1976,
+    "state": "Minnesota",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 1070440,
+    "totalvotes": 1949931
+  },
+  {
+    "year": 1976,
+    "state": "Minnesota",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 819395,
+    "totalvotes": 1949931
+  },
+  {
+    "year": 1976,
+    "state": "Mississippi",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 381329,
+    "totalvotes": 768390
+  },
+  {
+    "year": 1976,
+    "state": "Mississippi",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 366846,
+    "totalvotes": 768390
+  },
+  {
+    "year": 1976,
+    "state": "Missouri",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 998387,
+    "totalvotes": 1953600
+  },
+  {
+    "year": 1976,
+    "state": "Missouri",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 927443,
+    "totalvotes": 1953600
+  },
+  {
+    "year": 1976,
+    "state": "Montana",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 173703,
+    "totalvotes": 328734
+  },
+  {
+    "year": 1976,
+    "state": "Montana",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 149259,
+    "totalvotes": 328734
+  },
+  {
+    "year": 1976,
+    "state": "Nebraska",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 359219,
+    "totalvotes": 606749
+  },
+  {
+    "year": 1976,
+    "state": "Nebraska",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 233293,
+    "totalvotes": 606749
+  },
+  {
+    "year": 1976,
+    "state": "Nevada",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 101273,
+    "totalvotes": 201876
+  },
+  {
+    "year": 1976,
+    "state": "Nevada",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 92479,
+    "totalvotes": 201876
+  },
+  {
+    "year": 1976,
+    "state": "New Hampshire",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 185935,
+    "totalvotes": 339627
+  },
+  {
+    "year": 1976,
+    "state": "New Hampshire",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 147645,
+    "totalvotes": 339627
+  },
+  {
+    "year": 1976,
+    "state": "New Jersey",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 1509688,
+    "totalvotes": 3014472
+  },
+  {
+    "year": 1976,
+    "state": "New Jersey",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 1444653,
+    "totalvotes": 3014472
+  },
+  {
+    "year": 1976,
+    "state": "New Mexico",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 211419,
+    "totalvotes": 416590
+  },
+  {
+    "year": 1976,
+    "state": "New Mexico",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 201148,
+    "totalvotes": 416590
+  },
+  {
+    "year": 1976,
+    "state": "New York",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 3244165,
+    "totalvotes": 6668262
+  },
+  {
+    "year": 1976,
+    "state": "New York",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 2825913,
+    "totalvotes": 6668262
+  },
+  {
+    "year": 1976,
+    "state": "North Carolina",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 927365,
+    "totalvotes": 1677906
+  },
+  {
+    "year": 1976,
+    "state": "North Carolina",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 741960,
+    "totalvotes": 1677906
+  },
+  {
+    "year": 1976,
+    "state": "North Dakota",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 153684,
+    "totalvotes": 297308
+  },
+  {
+    "year": 1976,
+    "state": "North Dakota",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 136078,
+    "totalvotes": 297308
+  },
+  {
+    "year": 1976,
+    "state": "Ohio",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 2009959,
+    "totalvotes": 4110456
+  },
+  {
+    "year": 1976,
+    "state": "Ohio",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 2000626,
+    "totalvotes": 4110456
+  },
+  {
+    "year": 1976,
+    "state": "Oklahoma",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 545708,
+    "totalvotes": 1092251
+  },
+  {
+    "year": 1976,
+    "state": "Oklahoma",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 532442,
+    "totalvotes": 1092251
+  },
+  {
+    "year": 1976,
+    "state": "Oregon",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 492120,
+    "totalvotes": 1029876
+  },
+  {
+    "year": 1976,
+    "state": "Oregon",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 490407,
+    "totalvotes": 1029876
+  },
+  {
+    "year": 1976,
+    "state": "Pennsylvania",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 2328677,
+    "totalvotes": 4620787
+  },
+  {
+    "year": 1976,
+    "state": "Pennsylvania",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 2205604,
+    "totalvotes": 4620787
+  },
+  {
+    "year": 1976,
+    "state": "Rhode Island",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 227636,
+    "totalvotes": 410584
+  },
+  {
+    "year": 1976,
+    "state": "Rhode Island",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 181249,
+    "totalvotes": 410584
+  },
+  {
+    "year": 1976,
+    "state": "South Carolina",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 450807,
+    "totalvotes": 802583
+  },
+  {
+    "year": 1976,
+    "state": "South Carolina",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 346149,
+    "totalvotes": 802583
+  },
+  {
+    "year": 1976,
+    "state": "South Dakota",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 151505,
+    "totalvotes": 300678
+  },
+  {
+    "year": 1976,
+    "state": "South Dakota",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 147068,
+    "totalvotes": 300678
+  },
+  {
+    "year": 1976,
+    "state": "Tennessee",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 825879,
+    "totalvotes": 1476346
+  },
+  {
+    "year": 1976,
+    "state": "Tennessee",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 633969,
+    "totalvotes": 1476346
+  },
+  {
+    "year": 1976,
+    "state": "Texas",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 2082319,
+    "totalvotes": 4071884
+  },
+  {
+    "year": 1976,
+    "state": "Texas",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 1953300,
+    "totalvotes": 4071884
+  },
+  {
+    "year": 1976,
+    "state": "Utah",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 337908,
+    "totalvotes": 541218
+  },
+  {
+    "year": 1976,
+    "state": "Utah",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 182110,
+    "totalvotes": 541218
+  },
+  {
+    "year": 1976,
+    "state": "Vermont",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 100387,
+    "totalvotes": 183902
+  },
+  {
+    "year": 1976,
+    "state": "Vermont",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 77798,
+    "totalvotes": 183902
+  },
+  {
+    "year": 1976,
+    "state": "Virginia",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 836554,
+    "totalvotes": 1697094
+  },
+  {
+    "year": 1976,
+    "state": "Virginia",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 813896,
+    "totalvotes": 1697094
+  },
+  {
+    "year": 1976,
+    "state": "Washington",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 777732,
+    "totalvotes": 1555534
+  },
+  {
+    "year": 1976,
+    "state": "Washington",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 717323,
+    "totalvotes": 1555534
+  },
+  {
+    "year": 1976,
+    "state": "West Virginia",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 435864,
+    "totalvotes": 750590
+  },
+  {
+    "year": 1976,
+    "state": "West Virginia",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 314726,
+    "totalvotes": 750590
+  },
+  {
+    "year": 1976,
+    "state": "Wisconsin",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 1040232,
+    "totalvotes": 2101336
+  },
+  {
+    "year": 1976,
+    "state": "Wisconsin",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 1004987,
+    "totalvotes": 2101336
+  },
+  {
+    "year": 1976,
+    "state": "Wyoming",
+    "office": "US President",
+    "candidate": "Ford, Gerald",
+    "party": "republican",
+    "candidatevotes": 92717,
+    "totalvotes": 156343
+  },
+  {
+    "year": 1976,
+    "state": "Wyoming",
+    "office": "US President",
+    "candidate": "Carter, Jimmy",
+    "party": "democrat",
+    "candidatevotes": 62239,
+    "totalvotes": 156343
+  }
+]
